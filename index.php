@@ -63,7 +63,7 @@ if($rowData != NULL){
 						url: "submitForm.php",
 						data: $("#form").serialize(),
 						success: function(data){
-							console.log(data);
+							//console.log(data);
 							alert("Bedankt voor het mee doen, en gefeliciteerd met je prijs");
 							$("#form").remove();
 							$("#formScript").remove();
