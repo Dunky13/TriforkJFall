@@ -30,6 +30,7 @@ flock($fp, LOCK_UN);
 
 <html>
 	<head>
+		<link rel="shortcut icon" href="trifork.com/wp-content/themes/Blandes/favicon.ico">
 		<title>Trifork JFall</title>
 	</head>
 	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
